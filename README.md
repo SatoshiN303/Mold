@@ -27,7 +27,7 @@ sudo swift mold.swift
 
 After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named Mold.
 
-![Mold](gif.gif)
+![Mold](1499072539v7EbkOxJpWAekt81499072536.gif)
 
 ## License
 
