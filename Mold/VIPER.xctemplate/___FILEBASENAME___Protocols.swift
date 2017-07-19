@@ -1,6 +1,9 @@
 //
-// Created by Rijo George
-// Copyright © 2017年 i-studio development team. All rights reserved.
+//  ___FILENAME___
+//  ___PROJECTNAME___
+//
+//  Created by ___FULLUSERNAME___ on ___DATE___.
+//___COPYRIGHT___
 //
 
 import Foundation
