@@ -19,8 +19,9 @@ more: https://www.objc.io/issues/13-architecture/viper/
 3. Navigate to the downloaded folder
 4. Run the following script
 5. That's it :)
+
 ```shell
-sudo swift mold.swift
+swift bootstrap.swift
 ```
 
 ## Usage
